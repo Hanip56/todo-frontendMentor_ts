@@ -48,7 +48,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - Typescript
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
@@ -63,6 +62,4 @@ Work on the bonus point.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Hanip Al Hapidz](https://www.halfz.site)
